@@ -24,3 +24,7 @@
     - [北岛诗选](./docs/readingNotes/北岛诗选.md)
     - [诗词摘录](./docs/readingNotes/诗词摘录.md)
     - [片段摘录](./docs/readingNotes/片段摘录.md)
+- 前端
+    - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
+    - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
+    - [6.3 Vue-cli3引入TypeScript相关配置](./docs/web/Vue-cli3引入TypeScript.md)
