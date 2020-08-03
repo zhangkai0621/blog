@@ -3,5 +3,5 @@
 </p>
 <h1 align="center">zhangkai's Blog</h1>
 
-[GitGub](https://github.com/zhangkai0621)
+[GitHub](https://github.com/zhangkai0621)
 [开始阅读](./README.md)
