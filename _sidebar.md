@@ -1,7 +1,26 @@
+- 优质文集
+    - [技术类文章收录](./docs/static/文章集合.md)
 - 算法
-    - [算法概述](./docs/A/算法概述.md)
-- 数据结构与算法
-    - [线性表](./docs/B/线性表.md)
-        - [2.1 单链表](./docs/B/单链表.md)
-        - [2.2 静态链表](./docs/B/静态链表.md)
-- 读书笔记
+    - [1.1 算法概述](./docs/algorithm/算法概述.md)
+    - [1.2 冒泡排序](./docs/algorithm/冒泡排序.md)
+    - [1.3 约瑟夫问题](./docs/algorithm/约瑟夫问题.md)
+- 数据结构
+    - [线性表](./docs/DataStructure/线性表.md)
+        - [2.1 单链表](./docs/DataStructure/单链表.md)
+        - [2.2 静态链表](./docs/DataStructure/静态链表.md)
+        - [2.3 循环链表.md](./docs/DataStructure/循环链表.md)
+- 操作系统
+    - [操作系统概述](./docs/OS/操作系统概述.md)
+        - [3.1 操作系统的功能和定义](./docs/OS/操作系统的功能和定义.md)
+        - [3.2 操作系统的发展历史](./docs/OS/操作系统的发展历史.md)
+        - [3.3 典型的操作系统类型](./docs/OS/典型的操作系统类型.md)
+        - [3.4 分时技术和分时操作系统](./docs/OS/分时技术和分时操作系统.md)
+- 文学
+    - [2020个人书单](./docs/readingNotes/2020书单.md)
+    - [读书笔记](./docs/readingNotes/读书笔记.md)
+        - [5.2.1 白鹿原](./docs/readingNotes/白鹿原.md)
+        - [5.2.2 存在主义咖啡馆](./docs/readingNotes/存在主义咖啡馆.md)
+        - [5.2.3 三体](./docs/readingNotes/三体.md)
+    - [北岛诗选](./docs/readingNotes/北岛诗选.md)
+    - [诗词摘录](./docs/readingNotes/诗词摘录.md)
+    - [片段摘录](./docs/readingNotes/片段摘录.md)
