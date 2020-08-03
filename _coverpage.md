@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/tx.jpg" width="200" height="200"/>
+<img src="./img/tx.jpg" width="200" height="200" style="border-radius: 50%"/>
 </p>
 <h1 align="center">zhangkai's Blog</h1>
 
