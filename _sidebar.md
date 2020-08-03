@@ -4,6 +4,8 @@
     - [1.1 算法概述](./docs/algorithm/算法概述.md)
     - [1.2 冒泡排序](./docs/algorithm/冒泡排序.md)
     - [1.3 约瑟夫问题](./docs/algorithm/约瑟夫问题.md)
+    - [1.4 gcd(欧几里得)算法](./docs/algorithm/欧几里得算法.md)
+    - [1.5 摩尔投票算法](./docs/algorithm/摩尔投票算法.md)
 - 数据结构
     - [线性表](./docs/DataStructure/线性表.md)
         - [2.1 单链表](./docs/DataStructure/单链表.md)
