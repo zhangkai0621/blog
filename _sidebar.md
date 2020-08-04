@@ -4,7 +4,7 @@
     - [1.1 算法概述](./docs/algorithm/算法概述.md)
     - [1.2 冒泡排序](./docs/algorithm/冒泡排序.md)
     - [1.3 约瑟夫问题](./docs/algorithm/约瑟夫问题.md)
-    - [1.4 gcd(欧几里得)算法](./docs/algorithm/gcd.md)
+    - [1.4 欧几里得算法](./docs/algorithm/欧几里得算法.md)
     - [1.5 摩尔投票算法](./docs/algorithm/摩尔投票算法.md)
     - [1.6 魔术师发牌问题](./docs/algorithm/魔术师发牌问题.md)
 - 数据结构
@@ -32,3 +32,15 @@
     - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
     - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
     - [6.3 Vue-cli3引入TypeScript相关配置](./docs/web/Vue-cli3引入TypeScript.md)
+
+- LeetCode
+    - [7.1 两数之和](./docs/leetCode/两数之和.md)
+    - [7.2 整数反转](./docs/leetCode/整数反转.md)
+    - [7.3 回文数](./docs/leetCode/回文数.md)
+    - [7.4 最长回文串](./docs/leetCode/最长回文串.md)
+    - [7.5 最后一个单词的长度](./docs/leetCode/最后一个单词的长度.md)
+    - [7.6 将数组分成和相等的三个部分](./docs/leetCode/将数组分成和相等的三个部分.md)
+    - [7.7 字符串的最大公因子](./docs/leetCode/字符串的最大公因子.md)
+    - [7.8 多数元素](./docs/leetCode/多数元素.md)
+    - [7.9 最长上升子序列](./docs/leetCode/最长上升子序列.md)
+    - [7.10 删除排序数组中的重复项](./docs/leetCode/删除排序数组中的重复项.md)
