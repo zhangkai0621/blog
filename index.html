@@ -11,9 +11,6 @@
 </head>
 <body>
   <div id="app"></div>
-
-
-  
   <script>
     window.$docsify = {
       name: "zhangkai's Blog",
@@ -32,15 +29,6 @@
       }
       
     }
-    var gitalk = new Gitalk({
-        clientID: 'd2817eb2d23bc498eccf',
-        clientSecret: 'cde1c3af844d41972cbd8e8e6877612d09a6706d',
-        repo: 'commentManage',
-        owner: 'zhangkai0621',
-        admin: ['zhangkai0621'],
-        id: location.pathname,      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- 字数统计 -->
@@ -60,5 +48,16 @@
 <!-- 评论 -->
 <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+      clientID: 'd2817eb2d23bc498eccf',
+      clientSecret: 'cde1c3af844d41972cbd8e8e6877612d09a6706d',
+      repo: 'commentManage',
+      owner: 'zhangkai0621',
+      admin: ['zhangkai0621'],
+      id: location.pathname,      // Ensure uniqueness and length less than 50
+      distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+</script>
 </body>
 </html>
