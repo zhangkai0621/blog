@@ -1,3 +1,5 @@
+#### webpack常用插件汇总
+
 ### 6.1.1 Externals
 - Externals 用来告诉在 Webpack 要构建的代码中使用了哪些不用被打包的模块，也就是说这些模块是`外部环境`提供的，Webpack 在打包时可以`忽略`他们。
 - 通过 externals 可以告诉 webpack 在javascript 运行环境中已经`内置了`哪些全局变量，不用将这些全局变量打包到代码中而是直接使用他们。配置如下
