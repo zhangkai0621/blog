@@ -32,7 +32,7 @@
     - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
     - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
     - [6.3 Vue-cli3引入TypeScript相关配置](./docs/web/Vue-cli3引入TypeScript.md)
-    - [6.4 常用正则验证](./docs/web/常用正则验证.md)
+    - [6.4 实用小工具](./docs/web/实用小工具.md)
 
 - LeetCode
     - [7.1 两数之和](./docs/leetCode/两数之和.md)
