@@ -8,11 +8,14 @@
     - [2.5 摩尔投票算法](./docs/algorithm/摩尔投票算法.md)
     - [2.6 魔术师发牌问题](./docs/algorithm/魔术师发牌问题.md)
 - 数据结构
-    - [线性表](./docs/DataStructure/线性表.md)
-        - [3.1 单链表](./docs/DataStructure/单链表.md)
-        - [3.2 静态链表](./docs/DataStructure/静态链表.md)
-        - [3.3 循环链表](./docs/DataStructure/循环链表.md)
-        - [3.3 判断单链表中是否有环](./docs/DataStructure/判断单链表中是否有环.md)
+    - 线性表
+        - [3.1 线性表](./docs/DataStructure/线性表.md)
+        - [3.2 单链表](./docs/DataStructure/单链表.md)
+        - [3.3 静态链表](./docs/DataStructure/静态链表.md)
+        - [3.4 循环链表](./docs/DataStructure/循环链表.md)
+        - [3.5 判断单链表中是否有环](./docs/DataStructure/判断单链表中是否有环.md)
+    - 栈和队列
+        - [3.6 栈](./docs/DataStructure/栈.md)
 - 操作系统
     - [操作系统概述](./docs/OS/操作系统概述.md)
         - [4.1 操作系统的功能和定义](./docs/OS/操作系统的功能和定义.md)
