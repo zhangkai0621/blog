@@ -29,7 +29,7 @@
         - [5.2.2 存在主义咖啡馆](./docs/readingNotes/存在主义咖啡馆.md)
         - [5.2.3 三体](./docs/readingNotes/三体.md)
     - [中国古代文化常识](./docs/readingNotes/中国古代文化常识.md)
-        - [5.3.1 天象](./docs/readingNotes/天象.md)
+        - [5.3.1 天文](./docs/readingNotes/天文.md)
     - [北岛诗选](./docs/readingNotes/北岛诗选.md)
     - [诗词摘录](./docs/readingNotes/诗词摘录.md)
     - [片段摘录](./docs/readingNotes/片段摘录.md)
