@@ -28,11 +28,13 @@
         - [5.2.1 白鹿原](./docs/readingNotes/白鹿原.md)
         - [5.2.2 存在主义咖啡馆](./docs/readingNotes/存在主义咖啡馆.md)
         - [5.2.3 三体](./docs/readingNotes/三体.md)
+        - [5.2.4 人间词话](./docs/readingNotes/人间词话.md)
     - [中国古代文化常识](./docs/readingNotes/中国古代文化常识.md)
         - [5.3.1 天文](./docs/readingNotes/天文.md)
     - [北岛诗选](./docs/readingNotes/北岛诗选.md)
     - [诗词摘录](./docs/readingNotes/诗词摘录.md)
     - [片段摘录](./docs/readingNotes/片段摘录.md)
+    - [《菜根谭》的智慧](./docs/readingNotes/《菜根谭》的智慧.md)
 - 前端
     - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
     - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
