@@ -16,6 +16,7 @@
         - [3.5 判断单链表中是否有环](./docs/DataStructure/判断单链表中是否有环.md)
     - 栈和队列
         - [3.6 栈](./docs/DataStructure/栈.md)
+        - [3.7 栈的其他操作](./docs/DataStructure/栈的其他操作.md)
 - 操作系统
     - [操作系统概述](./docs/OS/操作系统概述.md)
         - [4.1 操作系统的功能和定义](./docs/OS/操作系统的功能和定义.md)
