@@ -18,6 +18,7 @@
         - [3.6 栈](./docs/DataStructure/栈.md)
         - [3.7 栈的其他操作](./docs/DataStructure/栈的其他操作.md)
         - [3.8 栈的链式存储结构](./docs/DataStructure/栈的链式存储结构.md)
+        - [3.9 队列](./docs/DataStructure/队列.md)
 - 操作系统
     - [操作系统概述](./docs/OS/操作系统概述.md)
         - [4.1 操作系统的功能和定义](./docs/OS/操作系统的功能和定义.md)
