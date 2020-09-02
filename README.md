@@ -1,7 +1,5 @@
 # Hi
 
-### [点击前往](https://zhangkai0621.github.io/blog/#/)
-
 ### 作者介绍
 - 性别男，爱好女
 - 生于香港回归那一年
@@ -10,7 +8,7 @@
 - 签名：为往圣继绝学
 
 ### 声明
-本博客仅为个人学习记录，不做商业用途
+本[博客](https://github.com/zhangkai0621/blog)仅为个人学习记录，不做商业用途
 
 ### 数据结构参考于
 - [数据结构与算法-哔哩哔哩](https://www.bilibili.com/video/BV1jW411K7yg)
