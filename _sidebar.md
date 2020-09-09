@@ -42,6 +42,7 @@
     - [《代码精进之路》](./docs/readingNotes/showMeTheCode/目录.md)
         - [前言](./docs/readingNotes/showMeTheCode/前言.md)
         - [第一章 命名](./docs/readingNotes/showMeTheCode/第一章-命名.md)
+        - [第二章 规范](./docs/readingNotes/showMeTheCode/第二章-规范.md)
 - 前端
     - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
     - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
