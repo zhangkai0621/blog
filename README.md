@@ -18,3 +18,6 @@
 
 ### LeetCode刷题来源于
 - [LeetCode-力扣](https://leetcode-cn.com/)
+
+### 《代码精进之路：从码农到工匠》来源于
+- [代码精进之路：从码农到工匠——张建飞-微信读书](https://weread.qq.com/web/reader/81132f5071cc7f7a81151c9kc81322c012c81e728d9d180)

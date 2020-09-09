@@ -40,6 +40,7 @@
     - [片段摘录](./docs/readingNotes/片段摘录.md)
     - [《菜根谭》的智慧](./docs/readingNotes/《菜根谭》的智慧.md)
     - [《代码精进之路》](./docs/readingNotes/showMeTheCode/目录.md)
+        - [前言](./docs/readingNotes/showMeTheCode/前言.md)
         - [第一章 命名](./docs/readingNotes/showMeTheCode/第一章-命名.md)
 - 前端
     - [6.1 webpack常用插件汇总](./docs/web/webpack常用插件汇总.md)
