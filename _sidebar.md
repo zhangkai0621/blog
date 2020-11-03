@@ -50,6 +50,9 @@
     - [6.2 数学公式编辑器](./docs/web/数学公式编辑器.md)
     - [6.3 Vue-cli3引入TypeScript相关配置](./docs/web/Vue-cli3引入TypeScript.md)
     - [6.4 实用小工具](./docs/web/实用小工具.md)
+    - [6.5 什么是域名？](./docs/web/什么是域名.md)
+    - [6.6 语义化HTML](./docs/web/语义化HTML.md)
+    - [6.7 Jest: 使用 JS 进行单元测试](./docs/web/Jest.md)
 
 - LeetCode
     - [7.1 两数之和](./docs/leetCode/两数之和.md)
